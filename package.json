@@ -1,0 +1,12 @@
+{
+  "name": "Dosi",
+  "version": "1.1.1.1",
+  "main": "index.js",
+  "author": "Dhanrks",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "form-data": "^4.0.0",
+    "ora": "5.4.1"
+  }
+}
